@@ -16,5 +16,5 @@ export const options={
     ]
 }
 export default function(){
-    http.get('https://resolve.vote/elections');
+    http.get('https://resolve.vote/');
 }
